@@ -2,4 +2,4 @@
 
 Currently an undergraduate at [University of California, Merced](https://www.ucmerced.edu)
 
-[My Projects](/my-projects/)
+[My Projects](/my-projects)
