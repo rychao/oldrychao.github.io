@@ -1,9 +1,9 @@
 
-# My Projects
+## My Projects
 
 [Hangman](https://github.com/rychao/games)
 
-# Classwork
+## Classwork
 
 [AP Computer Science A](https://github.com/rychao/APCSA)
 
